@@ -1,7 +1,7 @@
-#include <iostream>
+#include "main.h"
 
 int main(int argc, char const *argv[])
 {
-    std::cout << "hello world";
+    cout << "hello world";
     return 0;
 }
